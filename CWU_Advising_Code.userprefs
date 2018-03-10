@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{683998E3-D7CC-4AD8-B8DD-B012248E4B4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database_Handler/DatabaseHandler.cs">
+    <Files>
+      <File FileName="Database_Handler/DatabaseHandler.cs" Line="2350" Column="99" />
+      <File FileName="Database_Handler/DatabaseCommands.cs" Line="186" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CwuAdvising PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
